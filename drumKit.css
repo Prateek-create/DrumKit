@@ -62,29 +62,5 @@ footer{
     visibility: hidden;
 }
 
-@media (max-width: 1028px) {
-    #title{
-        font-size: 6rem;
-        text-shadow: 3px 0 #DA0463;
-        padding: 120px 0 80px 0;
-    }
-    footer{
-        padding-top: 125px;
-        padding-bottom: 30px;
-        font-size: 1.3rem;
-    }
-    .drum{
-        width: 175px;
-        height: 175px; 
-        margin: 60px;
-    }
-    .mobile{
-        display: contents;
-        visibility: visible;
-        color: #f0f5f778;
-    }
-}
-
-
 
 
